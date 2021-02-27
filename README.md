@@ -1,2 +1,2 @@
-# sekolahku
-Dicoding Belajar Dasar Pemrograman Web Submission
+# Sekolahku
+A simple web page about my school.
